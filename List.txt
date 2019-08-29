@@ -17,3 +17,32 @@ ADD <h1> tag and helloworld text to Index
 OPEN Index file
 RENAME Index to index.html
 RENAME Style to style.CSS
+OPEN index.html using web browser
+ADD <HTML><head> and <body> tags - This can be done in atom by resolving the autocomplete prompt for the HTML tag
+CUT AND PASTE "Hello World" into the right spot
+SAVE
+---
+REFRESH Browser
+ADD more heading elements to mimic echo
+ADD COMMENT in code
+
+SAVE
+---
+REFRESH browser
+ADD p tag and span tag
+COPY AND PASTE Lorem ipsum into span and p tags
+SAVE
+---
+REFRESH
+ADD some br tags
+SAVE
+---
+REFRESH
+CLEAN up code
+SAVE
+---
+REFRESH
+Add <b>, <i>, <br />, and <hr /> tags into text
+SAVE
+---
+REFRESH
