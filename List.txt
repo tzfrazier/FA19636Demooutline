@@ -1,0 +1,19 @@
+___Before___
+Create folder on desk top
+Add asset files to folder
+  Video
+  Image
+  Image2
+  Image3
+  Image4
+  Logo
+  background
+  background pattern
+___During___
+OPEN Atom
+CREATE Index file with no filetype
+CREATE Style file with not filetype
+ADD <h1> tag and helloworld text to Index
+OPEN Index file
+RENAME Index to index.html
+RENAME Style to style.CSS
