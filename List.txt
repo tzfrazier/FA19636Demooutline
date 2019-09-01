@@ -25,7 +25,6 @@ SAVE
 REFRESH Browser
 ADD more heading elements to mimic echo
 ADD COMMENT in code
-
 SAVE
 ---
 REFRESH browser
@@ -43,6 +42,10 @@ SAVE
 ---
 REFRESH
 Add <b>, <i>, <br />, and <hr /> tags into text
+SAVE
+---
+REFRESH
+Add <ul> and two <li>
 SAVE
 ---
 REFRESH
