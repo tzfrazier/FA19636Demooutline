@@ -49,3 +49,15 @@ Add <ul> and two <li>
 SAVE
 ---
 REFRESH
+Add <ol> and 3 <li>
+SAVE
+---
+REFRESH
+change <ul> to <ol> and <ol> to <ul>
+SAVE
+----
+REFRESH
+nest <UL[new]> under <ol[new]>
+SAVE
+---
+REFRESH
