@@ -2,7 +2,13 @@
 /*Unlike HTML, where you are entering and ordering content, you have to think a bit more about how your browser things with CSS*/
 /*comments play a really crucial role, with helping you keep css files organized.*/
 /*general styling*/
+h1 h2 h3 h4 h5 { color:pink;}
+h1.title {
+  color: #0f2044;
+}
 h2 {color:blue}
+h2.Subtitle
+{color:#ffb71b;}
 /*link syling*/
 a {color:red;}
 a:visited {
@@ -19,8 +25,10 @@ a:hover{
 }
 /*layout*/
 header{
+  background-color: #e5e6e4;
   margin-bottom:1px;
   border-bottom:dotted 2px #bec0c2;
+  padding: 5px 0px 0px 15px;
 }
 main {
   margin-left:0px;
@@ -30,7 +38,7 @@ main {
 }
 article {
   margin: 25px 0px 50px 25px;
-  background-color: white;
+  background-color: #e5e6e4;
   width:75%;
   border-right: solid 5px #ffb71b ;
 }
