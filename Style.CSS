@@ -1,4 +1,29 @@
 /*This is a comment it uses different syntax than HTML */
 /*Unlike HTML, where you are entering and ordering content, you have to think a bit more about how your browser things with CSS*/
 /*comments play a really crucial role, with helping you keep css files organized.*/
+/*general styling*/
 h2 {color:blue}
+/*link syling*/
+a {color:red;}
+a:visited {
+  color:green;
+  display:inline-block;
+  background-color:purple;
+          }
+a:hover{
+  font-size: 1.015em;
+  font-weight: bold;
+  color: white;
+  display: inline-block;
+  background-color: blue;
+}
+/*layout*/
+main {
+  background-color:#0f2044;
+  background-image:;
+}
+article {
+  background-color: white;
+  width:75%;
+  border-right: solid 5px #ffb71b ;
+}

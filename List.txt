@@ -71,3 +71,8 @@ change link from reset.css to style.CSS
 SAVE
 ---
 REFRESH
+add a comment, h2 element and declaration of turning h2 to blue.
+***explain Selector, Declaration, Property, Value***
+SAVE
+---
+REFRESH
