@@ -1,0 +1,4 @@
+/*This is a comment it uses different syntax than HTML */
+/*Unlike HTML, where you are entering and ordering content, you have to think a bit more about how your browser things with CSS*/
+/*comments play a really crucial role, with helping you keep css files organized.*/
+h2 {color:blue}

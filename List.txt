@@ -19,7 +19,7 @@ RENAME Index to index.html
 RENAME Style to style.CSS
 OPEN index.html using web browser
 ADD <HTML><head> and <body> tags - This can be done in atom by resolving the autocomplete prompt for the HTML tag
-Explain <element attribute="value"> and <meta name="value"> pairs
+***Explain <element attribute="value"> and <meta name="value"> pairs***
 CUT AND PASTE "Hello World" into the right spot
 SAVE
 ---
@@ -63,3 +63,11 @@ SAVE
 ---
 REFRESH
 Open evaluation assignment HTML File in browser, atom, if not open style.css
+add link to reset.CSS
+SAVE
+---
+REFRESH
+change link from reset.css to style.CSS
+SAVE
+---
+REFRESH
