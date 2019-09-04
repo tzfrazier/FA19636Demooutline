@@ -3,10 +3,6 @@ Create folder on desk top
 Add asset files to folder
   Video
   Image
-  Image2
-  Image3
-  Image4
-  Logo
   background
   background pattern
 ___During___
@@ -76,3 +72,25 @@ add a comment, h2 element and declaration of turning h2 to blue.
 SAVE
 ---
 REFRESH
+add comment about anchor styling
+add anchor selector with :visited and :hover pseudo elements
+Style their color, font-size, and font-weight properties
+SAVE
+---
+REFRESH
+add selectors for main and article into css files
+add comment about layout
+***discuss box model***
+add background color blue for main
+SAVE
+---
+REFRESH
+Note how all below header is now blue
+add property and value to make the article's background-color white. add university yellow right border solid 5px.
+SAVE
+---
+Refresh
+add header selector, style border bottom to have a dotted border with the university's grey
+SAVE Refresh
+
+End with typography
