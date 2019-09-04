@@ -1,0 +1,64 @@
+/*This is a comment it uses different syntax than HTML */
+/*Unlike HTML, where you are entering and ordering content, you have to think a bit more about how your browser things with CSS*/
+/*comments play a really crucial role, with helping you keep css files organized.*/
+/*general styling*/
+h1 h2 h3 h4 h5 { color:;}
+h1.title {
+  color: #0f2044;
+}
+h2 {color:blue}
+h2.Subtitle
+{color:#ffb71b;}
+/*link syling*/
+a {color:red;}
+a:visited {
+  color:green;
+  display:inline-block;
+  background-color:purple;
+}
+a:hover {
+  font-size: 1.015em;
+  font-weight: bold;
+  color: white;
+  display: inline-block;
+  background-color: blue;
+}
+/*table*/
+table {
+  background-color:#e5e6e4;
+  margin: 5px;
+}
+th {
+  background-color: #a6b0b7;
+  padding: 10px;
+}
+td {
+  border-right:dotted 1px #4fc2bf;
+  padding: 5px;
+}
+/*layout*/
+header{
+  background-color: #e5e6e4;
+  margin-bottom:1px;
+  border-bottom:dotted 2px #bec0c2;
+  padding: 5px 0px 0px 15px;
+}
+main {
+  height: 100%;
+  margin-left:0px;
+  padding-top:15px;
+  background-color:#0f2044;
+  background-image: url('uncg_emblem_1-color-black-reversed.png');
+}
+article {
+  margin: 25px 0px 50px 25px;
+  background-color: #e5e6e4;
+  width:75%;
+  border-right: solid 5px #ffb71b ;
+}
+hr {display:none;
+}
+footer {
+  background-color: #e5e6e4;
+  height: 100%;
+}

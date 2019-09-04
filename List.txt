@@ -1,0 +1,96 @@
+___Before___
+Create folder on desk top
+Add asset files to folder
+  Video
+  Image
+  background
+  background pattern
+___During___
+OPEN Atom
+CREATE Index file with no filetype
+CREATE Style file with not filetype
+ADD <h1> tag and helloworld text to Index
+OPEN Index file
+RENAME Index to index.html
+RENAME Style to style.CSS
+OPEN index.html using web browser
+ADD <HTML><head> and <body> tags - This can be done in atom by resolving the autocomplete prompt for the HTML tag
+***Explain <element attribute="value"> and <meta name="value"> pairs***
+CUT AND PASTE "Hello World" into the right spot
+SAVE
+---
+REFRESH Browser
+ADD more heading elements to mimic echo
+ADD COMMENT in code
+SAVE
+---
+REFRESH browser
+ADD p tag and span tag
+COPY AND PASTE Lorem ipsum into span and p tags
+SAVE
+---
+REFRESH
+ADD some br tags
+SAVE
+---
+REFRESH
+CLEAN up code
+SAVE
+---
+REFRESH
+Add <b>, <i>, <br />, and <hr /> tags into text
+SAVE
+---
+REFRESH
+Add <ul> and two <li>
+SAVE
+---
+REFRESH
+Add <ol> and 3 <li>
+SAVE
+---
+REFRESH
+change <ul> to <ol> and <ol> to <ul>
+SAVE
+----
+REFRESH
+nest <UL[new]> under <ol[new]>
+SAVE
+---
+REFRESH
+Open evaluation assignment HTML File in browser, atom, if not open style.css
+add link to reset.CSS
+SAVE
+---
+REFRESH
+change link from reset.css to style.CSS
+SAVE
+---
+REFRESH
+add a comment, h2 element and declaration of turning h2 to blue.
+***explain Selector, Declaration, Property, Value***
+SAVE
+---
+REFRESH
+add comment about anchor styling
+add anchor selector with :visited and :hover pseudo elements
+Style their color, font-size, and font-weight properties
+SAVE
+---
+REFRESH
+add selectors for main and article into css files
+add comment about layout
+***discuss box model***
+add background color blue for main
+SAVE
+---
+REFRESH
+Note how all below header is now blue
+add property and value to make the article's background-color white. add university yellow right border solid 5px.
+SAVE
+---
+Refresh
+add header selector, style border bottom to have a dotted border with the university's grey
+SAVE Refresh
+
+End with typography
